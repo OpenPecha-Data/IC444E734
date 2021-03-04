@@ -1,16 +1,16 @@
-id: opecha:P000519
+id: P000519
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG12536
   title: མདོ་མང་།
-  volume:
+  author: ''
+  volumes:
     d158def95c1f44c3ab28d0947fa0652b:
       image_group_id: I1KG12462
       title: Volume 1 of mngon par rtogs pa'i rgyan gyi bsdus don rin po che'i phreng
         ba/
       volume_number: 1
       total_pages: 35
-  author: ''
 ebook_metadata:
   title: མདོ་མང་།
   author: ''
