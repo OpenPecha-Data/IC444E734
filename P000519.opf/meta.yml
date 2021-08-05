@@ -5,12 +5,18 @@ source_metadata:
   title: མདོ་མང་།
   author: ''
   volumes:
-    d158def95c1f44c3ab28d0947fa0652b:
-      image_group_id: I1KG12462
-      title: Volume 1 of mngon par rtogs pa'i rgyan gyi bsdus don rin po che'i phreng
-        ba/
+    ac881ec66f334ca9bb497b381d344558:
+      image_group_id: I1KG12584
+      title: ''
       volume_number: 1
-      total_pages: 35
+      total_pages: 756
+      base_file: v001.txt
+    58905b8537f94bc0868497e41f722b56:
+      image_group_id: I1KG12588
+      title: ''
+      volume_number: 2
+      total_pages: 756
+      base_file: v002.txt
 ebook_metadata:
   title: མདོ་མང་།
   author: ''
