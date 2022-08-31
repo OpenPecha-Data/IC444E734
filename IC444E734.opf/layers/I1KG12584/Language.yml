@@ -1,0 +1,214 @@
+id: 5d7dd895206749629f8a5089d72909ec
+annotation_type: Language
+revision: '00001'
+annotations:
+  573c72db7c234a25873855491b8cd1c1:
+    span:
+      start: 40
+      end: 584
+    language: en
+  aa3d86202d9f47e58bee400fbbfd6e56:
+    span:
+      start: 8999
+      end: 9121
+    language: en
+  0cc5d8fe140f4aac8747bd10d00672f1:
+    span:
+      start: 22765
+      end: 22991
+    language: en
+  ed490bd4a3b04b0686005c65b46a1f81:
+    span:
+      start: 23329
+      end: 23421
+    language: en
+  a65bcb3b1a0148db9caab3b3067240d5:
+    span:
+      start: 26000
+      end: 26101
+    language: en
+  590af4835d4f4d57bbd6de4e6205ffc0:
+    span:
+      start: 29156
+      end: 29278
+    language: en
+  2ec8331967f24bf2b9ff7267a94265d4:
+    span:
+      start: 58915
+      end: 59043
+    language: en
+  89725978958b40cf84773fd855042815:
+    span:
+      start: 59408
+      end: 59523
+    language: en
+  a569eee9469f4ca7ace644f36e7a92aa:
+    span:
+      start: 67379
+      end: 67494
+    language: en
+  8ac840ab6d424f5ea5bab5d344ac54b0:
+    span:
+      start: 79911
+      end: 79973
+    language: en
+  c98a11bea5c3403f8b8bef0e19cae456:
+    span:
+      start: 90424
+      end: 90667
+    language: en
+  fe0286066ff249eb81a30a9ac2ac4d42:
+    span:
+      start: 90742
+      end: 90845
+    language: en
+  288f5cde26d048538d68aa339bee7894:
+    span:
+      start: 95730
+      end: 95846
+    language: en
+  b9424d8af150433987c3525b34a1d22d:
+    span:
+      start: 107299
+      end: 107406
+    language: en
+  158d071f613e46719e1e467dc80583d0:
+    span:
+      start: 110228
+      end: 110346
+    language: en
+  327f8a6cd63842f98cdb3a692b073b66:
+    span:
+      start: 113011
+      end: 113141
+    language: en
+  4f417b7b9149414887637cccdaf07672:
+    span:
+      start: 113567
+      end: 113683
+    language: en
+  7c4dc37510ba483ba0ae3f71645144b4:
+    span:
+      start: 118145
+      end: 118261
+    language: en
+  df648179c14348c9bbbcf289a903a587:
+    span:
+      start: 128243
+      end: 128361
+    language: en
+  6b6e49b70f27456988d40a2a820c09ca:
+    span:
+      start: 135490
+      end: 135606
+    language: en
+  09c9000a1556408aba602d8db41b9191:
+    span:
+      start: 155590
+      end: 155674
+    language: en
+  1f76854b28414a44b069e854c808e367:
+    span:
+      start: 158555
+      end: 158661
+    language: en
+  1375809b7e5b4c0387b94def39cdead6:
+    span:
+      start: 159693
+      end: 159797
+    language: en
+  d75b4d7dd5f9443bab8b9f44d9dc57a6:
+    span:
+      start: 172654
+      end: 172764
+    language: en
+  d7e517e4034b402483906a990ff3542f:
+    span:
+      start: 180230
+      end: 180341
+    language: en
+  5c088c071d154614af5c610068702259:
+    span:
+      start: 181322
+      end: 181427
+    language: en
+  528b1751365a434fabc771cbfb7cfcae:
+    span:
+      start: 182603
+      end: 182720
+    language: en
+  48edb2c2fc4b4fefadea161a8436632b:
+    span:
+      start: 188855
+      end: 188960
+    language: en
+  4be1ba3c64d34090971f6f57f353e09e:
+    span:
+      start: 195479
+      end: 195521
+    language: en
+  91ea95662e4347fbb7ff4510312b576d:
+    span:
+      start: 205133
+      end: 205280
+    language: en
+  0bb3dd25a74f443db7beb89ea69a7969:
+    span:
+      start: 238530
+      end: 238617
+    language: en
+  31988869bc434c8a874a71cd0e67e68a:
+    span:
+      start: 239741
+      end: 239822
+    language: en
+  ffd366f46f7f45e1a3bcbd21e51d3846:
+    span:
+      start: 284780
+      end: 284895
+    language: en
+  3182fd5410834bbfba423eabd83eb9f8:
+    span:
+      start: 329113
+      end: 329216
+    language: en
+  27f90b3e9e304c49a0949001151f59c6:
+    span:
+      start: 338663
+      end: 338764
+    language: en
+  cba826b3847a444f9417e108d64dc6e9:
+    span:
+      start: 357606
+      end: 357696
+    language: en
+  6985ac1aeed64a19a5fd2c751b69360f:
+    span:
+      start: 377596
+      end: 377698
+    language: en
+  33dcc8f2eea04628ace6601bd783258e:
+    span:
+      start: 413537
+      end: 413646
+    language: en
+  a4f5c9850ce74458a1e752038bf600ba:
+    span:
+      start: 423475
+      end: 423598
+    language: en
+  6d3b2a5b590445718813a7e6945cc0b6:
+    span:
+      start: 427636
+      end: 427743
+    language: en
+  ed28ab70a28e41debe1d53838bc192a9:
+    span:
+      start: 430077
+      end: 430157
+    language: en
+  2684d9e2bd4d4d97bf300a550d58649c:
+    span:
+      start: 430260
+      end: 430356
+    language: en
